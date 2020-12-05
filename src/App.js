@@ -18,7 +18,7 @@ class App extends Component {
 
   componentDidMount(){
     console.log("Mounted!")
-    fetch("/iakshat.github.io/a2oj/ladders.json")
+    fetch("/ladders.json")
     .then(res => res.json())
     .then(response => {
       console.log("ladders: ",response)
