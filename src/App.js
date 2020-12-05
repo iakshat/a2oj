@@ -26,7 +26,7 @@ class App extends Component {
         allLadders: response
       })
     })
-    var username = "iakshat"//prompt("cf username??");
+    var username = prompt("cf username??");
     fetch("https://codeforces.com/api/user.status?handle="+username+"&from=1&count=5000")
     .then(res => res.json())
     .then(res => {
