@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iakshat.github.io/a2oj/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/iakshat.github.io/a2oj/static/js/main.371bc590.chunk.js",
+    "main.js.map": "/iakshat.github.io/a2oj/static/js/main.371bc590.chunk.js.map",
+    "runtime-main.js": "/iakshat.github.io/a2oj/static/js/runtime-main.ed3fb4a0.js",
+    "runtime-main.js.map": "/iakshat.github.io/a2oj/static/js/runtime-main.ed3fb4a0.js.map",
+    "static/js/2.2f78de10.chunk.js": "/iakshat.github.io/a2oj/static/js/2.2f78de10.chunk.js",
+    "static/js/2.2f78de10.chunk.js.map": "/iakshat.github.io/a2oj/static/js/2.2f78de10.chunk.js.map",
+    "index.html": "/iakshat.github.io/a2oj/index.html",
+    "precache-manifest.5c150a10db083cef71e9653e64ca28e0.js": "/iakshat.github.io/a2oj/precache-manifest.5c150a10db083cef71e9653e64ca28e0.js",
+    "service-worker.js": "/iakshat.github.io/a2oj/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/iakshat.github.io/a2oj/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2f78de10.chunk.js.LICENSE.txt": "/iakshat.github.io/a2oj/static/js/2.2f78de10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed3fb4a0.js",
+    "static/js/2.2f78de10.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.371bc590.chunk.js"
+  ]
+}
